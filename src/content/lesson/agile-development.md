@@ -46,7 +46,7 @@ Erase from your mind any website development workflow that you’ve learned on y
 
 
 [[info]]
-| :point_up:Actually, a web application can be relatively easily exported into a mobile, table or desktop application.
+| :point_up:Actually, a web application can be relatively easily exported into a mobile, tablet or desktop application.
 
 ## Our Professional Development Workflow
 ***
